@@ -5,8 +5,8 @@ Simple is odd checker but in very sophisticated way.
 Can check string too
 
 ## Example: 
-    "one hundred one" => even
-    "one hundred sixty six" => odd
+    "one hundred one" => odd
+    "one hundred sixty six" => even
 
 
 
